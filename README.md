@@ -5,9 +5,9 @@ Simplified Google Maps is a very unique plugin, it will allow you to easily crea
 
 The Simplified Google Maps plugin allow user easily to:
 
-Configure the map settings ( map center, map zoom, map size and map type)
-Easily add multiple places on map
-Move places on map by drag and drop
-Add place detail rich content.
-Focus map on any location by simply searching the desired address
-And yes ... No coding skills required! It's just works!
+* Configure the map settings ( map center, map zoom, map size and map type)
+* Easily add multiple places on map
+* Move places on map by drag and drop
+* Add place detail rich content.
+* Focus map on any location by simply searching the desired address
+* And yes ... No coding skills required! It's just works!
