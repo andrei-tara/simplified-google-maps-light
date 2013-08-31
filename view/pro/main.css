@@ -1,0 +1,58 @@
+.master-container{
+    background: #f5f5f5;
+    padding: 20px 0 30px;
+}
+
+.container {
+    width: 900px;
+    background: #fff;
+    border: 1px solid #00aacc;
+    padding: 20px 20px 10px;
+    margin: 0 auto;
+}
+
+.container a {
+    color: #00aacc;
+    text-decoration: none;
+}
+
+.container hr {
+    margin: 0 0 30px;
+}
+
+.container a:hover { text-decoration: underline; }
+
+/* header */
+#header {
+    padding: 0 0 20px;
+    text-align: center;
+}
+
+#logo {
+    background: url(../images/logo.png) no-repeat;
+    width: 127px; height: 32px;
+    margin: 0 auto;
+    text-indent: -9999px;
+}
+
+#header small {
+    color: #58595b;
+    display: inline-block;
+    font-size: 11px;	
+}
+
+/* content */
+
+.container h1 {
+    color: #58595b;
+    font-size: 40px;
+    line-height: 60px;
+    font-weight: 700;
+}
+
+.block {
+    margin: 0 0 20px;
+}
+
+
+
